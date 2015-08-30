@@ -1,0 +1,2 @@
+# ProjectEuler
+Spoiler Warning
